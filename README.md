@@ -15,7 +15,7 @@
   
 </div>
 <br />
-<br />
-<br />
 
-<h3>Connect with me:</h3>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saloni33&show_icons=true&hide_border=true&theme=gotham&count_private=true&include_all_commits=true" />
+  
+
