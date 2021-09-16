@@ -2,9 +2,7 @@
 - ⚡ I’m looking to collaborate with other Android Developers
 - 👀 I'm interested in competitive programming and Android development 
 
-<h2 align="center">Languages and tools I use:</h2>
-
-
+<h3>Languages and tools I use:</h3>
 <div align="center" style="text-align=center; background-color:white">
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> </a>
@@ -19,3 +17,5 @@
 <br />
 <br />
 <br />
+
+<h3>Connect with me:</h3>
