@@ -14,10 +14,10 @@
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
   
 </div>
-<br />
+<br/>
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saloni33&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saloni33&hide_border=true&layout=compact&show_icons=true" /> -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saloni33&hide_border=true&layout=compact&show_icons=true" />
 
 
