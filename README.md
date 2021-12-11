@@ -1,6 +1,5 @@
-### 👋Hi, I'm Saloni 
-- ⚡ I’m looking to collaborate with other Android Developers
-- 👀 I'm interested in competitive programming and Android development 
+<h1 align="center">Hi! I am Saloni <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h3 align="center">I am a passionate learner from India. </h3>
 
 <h3>Languages and tools I use:</h3>
 <div style="text-align=center; background-color:white">
@@ -22,4 +21,4 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saloni33&layout=compact&theme=github_dark)](https://github.com/saloni33/github-readme-stats)
  -->
 
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saloni33&hide_border=true&layout=compact&show_icons=true" /> -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saloni33&hide_border=false&layout=compact&theme=github_dark&show_icons=true" />
