@@ -1,5 +1,5 @@
-<h1 align="center">Hi! I am Saloni <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">I am a passionate learner from India. </h3>
+<h1>Hi! I am Saloni 👋🏼</h1>
+<h3>I am a passionate learner from India. </h3>
 
 <h3>Languages and tools I use:</h3>
 <div style="text-align=center; background-color:white">
